@@ -1,0 +1,14 @@
+PvZ2 Gardendless
+Copyright Gaozih and the PvZ2 Gardendless contributors
+https://github.com/Gzh0821/pvzge_web
+https://pvzge.com
+
+This package redistributes the unmodified web version of PvZ2 Gardendless
+(the "docs" folder of the pvzge_web repository) under the Apache License 2.0.
+See the LICENSE file.
+
+The game files are not modified. Livecoins connects to the game at runtime
+from its own application; that code is not part of this package.
+
+"Plants vs. Zombies" is a trademark of Electronic Arts Inc. / PopCap Games.
+This package is not affiliated with or endorsed by Electronic Arts or PopCap.
